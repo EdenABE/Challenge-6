@@ -1,0 +1,13 @@
+h1 {
+background-color: #000080d4;
+color:white;
+}
+div.card-body {
+    background-color: hwb(245 7% 89% / 0.915);
+    color: white;
+
+}
+#currentWeather {
+    background-color: white;
+    color: black;
+}
