@@ -7,3 +7,5 @@ The weather icon is displayed next to the date and it is a quick way to pick on 
 You will be able to see the upcoming days with the corresponding weather icon, temprature and humidity below today's weather description 
 The name of the cities you have searched for will populate under the search icon  
 If you need to go back to the previously searched cities, you can click the city name and the corresponding current and future weather will be displayed again 
+
+Follow this link to checkout the application https://edenabe.github.io/Challenge-6/
